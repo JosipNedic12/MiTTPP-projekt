@@ -40,3 +40,6 @@ build/
 
 # Log files
 *.log
+
+# Selenium WebDriver binaries
+chromedriver.exe
